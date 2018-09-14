@@ -1,5 +1,6 @@
 # R1soft-installation
 R1soft agent installation on CentOS6-7 and Ubuntu
+
 Step 1 Create R1soft server
 
 Step 2 Copy ssh key from the R1soft server to the remote hosts
