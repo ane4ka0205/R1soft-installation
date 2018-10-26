@@ -1,6 +1,6 @@
 ---
 - name: R1soft agent installation on new servers
-  hosts: r1soft
+  hosts: all
   connection: ssh
   tasks:
 
